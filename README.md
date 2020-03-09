@@ -13,7 +13,12 @@ $ composer require vyskoczilova/optimize-wp-sdk
 ## Usage
 
 ``` php
-new Vyskoczilova\OptimizeWP();
+// Load Optimize WP
+$composer_autoload = __DIR__ . '/vendor/autoload.php';
+if ( file_exists( $composer_autoload ) ) {
+	require_once $composer_autoload;
+	new Vyskoczilova\OptimizeWP();
+}
 ```
 
 ## Contributing
