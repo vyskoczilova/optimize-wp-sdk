@@ -1,8 +1,8 @@
 <?php
 
-namespace Vyskoczilova\OptimizeWP;
+namespace Vyskoczilova;
 
-class SVGSupportClass
+class SVGSupport
 {
 
     /**
