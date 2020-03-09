@@ -1,4 +1,4 @@
-# League Skeleton
+# Optimize WP SDK
 
 The WP optimize package for [Karolína Vyskočilová's](https://kybernaut.cz) WordPress projects. Feel free to use it, if it helps.
 
@@ -13,8 +13,7 @@ $ composer require vyskoczilova/optimize-wp-sdk
 ## Usage
 
 ``` php
-$skeleton = new League\Skeleton();
-echo $skeleton->echoPhrase('Hello, League!');
+new Vyskoczilova\OptimizeWP();
 ```
 
 ## Contributing
