@@ -27,8 +27,9 @@ Please see [CONTRIBUTING](https://github.com/vyskoczilova/optimize-wp-sdk/blob/m
 
 ## Credits
 
-- [Karolína Vyskočilová](https://github.com/vyskoczilova)
-- [All Contributors](https://github.com/vyskoczilova/optimize-wp-sdk/contributors)
+* [Karolína Vyskočilová](https://github.com/vyskoczilova)
+* [All Contributors](https://github.com/vyskoczilova/optimize-wp-sdk/contributors)
+* [SVG-sanitizer library](https://github.com/darylldoyle/svg-sanitizer)
 
 ## License
 
